@@ -1,7 +1,7 @@
 {
   "name": "llm-coding-assistant",
   "displayName": "llm-coding-assistant",
-  "description": "Experimenting with using local LLM to integrate against VSCode",
+  "description": "Experimenting/learning with using local LLM to integrate against VSCode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
